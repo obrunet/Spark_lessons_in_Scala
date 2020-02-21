@@ -1,3 +1,3 @@
 will be explained more in depth in the future...
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4982063628884967/3332454913165448/6975919329285356/latest.html
+- 20200221 [local file](https://github.com/obrunet/Spark_lessons/blob/master/20200221_session_readcsv_sql.html) or [plublished](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4982063628884967/3332454913165448/6975919329285356/latest.html) 
