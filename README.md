@@ -6,5 +6,6 @@ __Here is a summary of various Spark exercices in Scala :__
 
 -Chapt 06 : Working with different types of data : spark types,, working with Booleans, Numbers, Dates & Timestamps, Nulls in Data, User Defined Functions, JSON...
 
+-Chapt 07 : Aggregations, functions, grouping, window functions, grouping sets, User-Defined Aggregation Functions
 
 Toije1hn2fls5F!Z
