@@ -8,4 +8,6 @@ __Here is a summary of various Spark exercices in Scala :__
 
 -Chapt 07 : Aggregations, functions, grouping, window functions, grouping sets, User-Defined Aggregation Functions
 
+-Chapt 08 : Inner, Outer, Left Outer, Right Outer, Left Semi, Left Anti, Natural, Cross (Cartesian) Joins. Challenges When Using Joins & How Spark Performs Joins
+
 Toije1hn2fls5F!Z
