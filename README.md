@@ -10,4 +10,6 @@ __Here is a summary of various Spark exercices in Scala :__
 
 -Chapt 08 : Inner, Outer, Left Outer, Right Outer, Left Semi, Left Anti, Natural, Cross (Cartesian) Joins. Challenges When Using Joins & How Spark Performs Joins
 
+-Chapt 09 : Data sources (CSV, JSON, Parquet, Orc, SQL Db, Text files)
+
 Toije1hn2fls5F!Z
