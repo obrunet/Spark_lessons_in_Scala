@@ -160,7 +160,6 @@ csvFile.write.mode("append").jdbc(newPath, tablename, props)
 spark.read.textFile("/FileStore/tables/2015_summary-ebaee.csv")
   .selectExpr("split(value, ',') as rows").show()
 
-
 // COMMAND ----------
 
 csvFile.limit(10).select("DEST_COUNTRY_NAME", "count")
