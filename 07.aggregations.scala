@@ -281,6 +281,7 @@ pivoted.where("date > '2011-12-05'").select("date" ,"`USA_sum(Quantity)`").show(
 +----------+-----------------+
 
 // ------------ USER-DEFINED AGGREGATION FUNCTIONS ------------ 
+
 import org.apache.spark.sql.expressions._
 import org.apache.spark.sql.Row
 import org.apache.spark.sql.types._
